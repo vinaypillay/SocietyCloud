@@ -15,7 +15,7 @@ class excep
 		}
 	}
 	protected void finalize() {
-		System.out.println("Finalize is called hahhahha");
+		System.out.println("Finalize is called");
 	}
 	
 }
